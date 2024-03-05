@@ -36,6 +36,5 @@ ProductDescription(ProductDescriptionID, Description)
 ![f7b79a1676dca2de99766772046fc47](https://github.com/ethanzzz118/Case-Customer-sales-database-analysis/assets/110695227/54adf508-bb79-4bcd-a081-c4335b8f1d02)
 ![ffe5ed9d3298bbd4a4090f90ff39e6d](https://github.com/ethanzzz118/Case-Customer-sales-database-analysis/assets/110695227/06432c05-c214-49fd-bf1d-1888b4b4fcb8)
 
-#Lesson learned
-
+# Lesson learned
 From this case, I am familiar with all the sql queries and syntax.I also know how to increace the sql performance by setting correct and necessary indexing or filters.Successfully accompolish all the business requirements and have a fully understanding of the logic inside the datemodel.
